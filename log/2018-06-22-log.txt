@@ -1,0 +1,2081 @@
+************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 9	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 8	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 7	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 6	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 5	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 4	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 3	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 2	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P2 --> 1	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:10	P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P3	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 20	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P3	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 19	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P3	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 18	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P3	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 17	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P3	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 16	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P3	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 15	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P3	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 14	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P3	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 13	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P3	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 12	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P3	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 11	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P3	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: P2 --> 0	next:C:50	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 10	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P2	-->	50		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 9	P3 --> 20	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P2	-->	49		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 8	P3 --> 19	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P2	-->	48		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 7	P3 --> 18	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P2	-->	47		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 6	P3 --> 17	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P2	-->	46		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 5	P3 --> 16	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P2	-->	45		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 4	P3 --> 15	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P2	-->	44		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 3	P3 --> 14	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P2	-->	43		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 2	P3 --> 13	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P2	-->	42		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 1	P3 --> 12	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P2	-->	41		C_run:	True
+the_list_message:
+	ReadyPCBs: P1 --> 0	next:C:40	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P3 --> 11	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P2	-->	40		C_run:	True
+the_list_message:
+	ReadyPCBs: P1 --> 0	next:C:40	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P3 --> 10	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	40		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 9	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	39		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 8	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	38		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 7	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	37		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 6	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	36		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 5	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	35		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 4	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	34		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 3	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	33		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 2	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	32		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: P3 --> 1	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	31		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 20	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:40	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 19	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P2	-->	40		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 18	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P2	-->	39		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 17	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P2	-->	38		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 16	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P2	-->	37		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 15	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P2	-->	36		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 14	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P2	-->	35		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 13	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P2	-->	34		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 12	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P2	-->	33		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 11	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P2	-->	32		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 10	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P2	-->	31		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 9	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P2	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 8	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 7	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	29		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 6	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	28		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 5	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	27		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 4	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	26		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 3	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	25		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 2	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	24		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: P3 --> 1	
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	23		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:40	
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	22		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:40	
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	21		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:40	
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: P3 --> 0	next:C:40	
+	BackupReadyPCBs: P2 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P3	-->	40		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P3	-->	39		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P3	-->	38		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P3	-->	37		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P3	-->	36		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P3	-->	35		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P3	-->	34		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P3	-->	33		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P3	-->	32		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P3	-->	31		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P3	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:30	P1 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P2	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P2	-->	29		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P2	-->	28		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P2	-->	27		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P2	-->	26		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P2	-->	25		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P2	-->	24		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P2	-->	23		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P2	-->	22		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P2	-->	21		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P2	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:20	P3 --> 0	next:C:30	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	19		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	18		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	17		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	16		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	15		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	14		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	13		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	12		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	11		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:30	P2 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P3	-->	30		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P3	-->	29		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P3	-->	28		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P3	-->	27		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P3	-->	26		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P3	-->	25		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P3	-->	24		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P3	-->	23		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P3	-->	22		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P3	-->	21		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P3	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:20	P1 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P2	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P2	-->	19		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P2	-->	18		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P2	-->	17		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P2	-->	16		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P2	-->	15		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P2	-->	14		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P2	-->	13		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P2	-->	12		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P2	-->	11		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P2	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P1 --> 0	next:C:10	P3 --> 0	next:C:20	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:20	P2 --> 0	next:C:10	
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P3	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 30	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P3	-->	19		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 29	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P3	-->	18		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 28	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P3	-->	17		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 27	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P3	-->	16		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 26	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P3	-->	15		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 25	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P3	-->	14		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 24	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P3	-->	13		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 23	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P3	-->	12		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 22	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P3	-->	11		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 21	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P3	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P2 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 20	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P2	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 19	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P2	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 18	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P2	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 17	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P2	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 16	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P2	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 15	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P2	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 14	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P2	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 13	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P2	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 12	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P2	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 11	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P2	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 10	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P2	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: P3 --> 0	next:C:10	
+	InputWaittingPCBs: P1 --> 9	
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P3	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 8	
+	OutputWaittingPCBs: P2 --> 20	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P3	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 7	
+	OutputWaittingPCBs: P2 --> 19	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P3	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 6	
+	OutputWaittingPCBs: P2 --> 18	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P3	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 5	
+	OutputWaittingPCBs: P2 --> 17	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P3	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 4	
+	OutputWaittingPCBs: P2 --> 16	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P3	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 3	
+	OutputWaittingPCBs: P2 --> 15	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P3	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 2	
+	OutputWaittingPCBs: P2 --> 14	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P3	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: P1 --> 1	
+	OutputWaittingPCBs: P2 --> 13	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P3	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: P1 --> 0	next:C:20	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 12	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P3	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: P1 --> 0	next:C:20	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 11	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P3	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: P1 --> 0	next:C:20	
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 10	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 9	P3 --> 10	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	19		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 8	P3 --> 9	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	18		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 7	P3 --> 8	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	17		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 6	P3 --> 7	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	16		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 5	P3 --> 6	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	15		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 4	P3 --> 5	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	14		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 3	P3 --> 4	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	13		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 2	P3 --> 3	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	12		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P2 --> 1	P3 --> 2	
+	PureWaittingPCBs: 
+	FinishPCBs: 
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	11		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P3 --> 1	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	9		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	7		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	5		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	3		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	1		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	30		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 30	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	29		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 29	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	28		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 28	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	27		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 27	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	26		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 26	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	25		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 25	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	24		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 24	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	23		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 23	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	22		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 22	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	21		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 21	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	20		C_run:	False
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 20	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	10
+		C_pcb:	P1	-->	20		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 20	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	9
+		C_pcb:	P1	-->	18		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 18	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	8
+		C_pcb:	P1	-->	16		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 16	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	7
+		C_pcb:	P1	-->	14		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 14	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	6
+		C_pcb:	P1	-->	12		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 12	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	5
+		C_pcb:	P1	-->	10		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 10	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	4
+		C_pcb:	P1	-->	8		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 8	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	3
+		C_pcb:	P1	-->	6		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 6	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	2
+		C_pcb:	P1	-->	4		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 4	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	1
+		C_pcb:	P1	-->	2		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: P1 --> 2	
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	
+ ************************************************************
+--timeslice:	0
+		C_pcb:	P1	-->	0		C_run:	True
+the_list_message:
+	ReadyPCBs: 
+	BackupReadyPCBs: 
+	InputWaittingPCBs: 
+	OutputWaittingPCBs: 
+	PureWaittingPCBs: 
+	FinishPCBs: P2 --> 0	P3 --> 0	P1 --> 0	
+ 
